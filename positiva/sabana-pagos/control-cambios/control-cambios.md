@@ -1,4 +1,4 @@
-adf
+Notas generales para el control de cambios del proyecto de Sabana de pagos y bases para siniestralidad en sus 4 asistentes digitales
 
 ---
 - [[base-avisados]]
@@ -13,7 +13,6 @@ adf
 ### Pendientes desarrollador
 
 - [ ] Actualizar la estructura del repositorio en el One Drive
-- [ ] 
 
 ### Pendientes usuarios
 

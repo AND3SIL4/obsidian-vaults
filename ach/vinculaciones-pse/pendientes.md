@@ -9,3 +9,6 @@
 - [ ] Validar casos radicados por Jose.
 	- [ ] Validar casos cuando solo tienen un archivo para varios documentos.
 	- [ ] Validar la descarga de documentos cuando vienen por separados.
+- [ ] Retornar el booleano en la función 07 que indique si el comercio esta solicitando multi crédito.
+
+---

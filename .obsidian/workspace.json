@@ -153,6 +153,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "fbfae0af8402c199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d14130ef2995ed",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ach/vinculaciones-pse/pendientes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666602219723,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of pendientes"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,20 +215,21 @@
   "active": "be7123e750053af4",
   "lastOpenFiles": [
     "ach/vinculaciones-pse/vinculaciones-pse.md",
-    "ach/vinculaciones-pse/pendientes.md",
     "positiva/sabana-pagos/control-cambios/control-cambios.md",
+    "positiva/sabana-pagos/sabana-pagos.md",
+    "positiva/positiva.md",
+    "ach/vinculaciones-pse/pendientes.md",
+    "positiva/sabana-pagos/control-cambios/base-pagos-red-asistencial.md",
+    "positiva/sabana-pagos/control-cambios/base-pagos.md",
+    "positiva/sabana-pagos/control-cambios/base-objetados.md",
+    "positiva/sabana-pagos/control-cambios/base-avisados.md",
+    "positiva/sabana-pagos/Untitled.md",
     "positiva/test-excalidraw.md",
     "Excalidraw/Drawing 2025-05-23 14.22.20.excalidraw.md",
     "Excalidraw",
-    "positiva/sabana-pagos/control-cambios/base-avisados.md",
     "Welcome.md",
-    "positiva/sabana-pagos/control-cambios/base-pagos.md",
-    "positiva/sabana-pagos/control-cambios/base-pagos-red-asistencial.md",
-    "positiva/sabana-pagos/control-cambios/base-objetados.md",
     "positiva/sabana-pagos/control-cambios",
-    "positiva/sabana-pagos/sabana-pagos.md",
     "positiva/sabana-pagos",
-    "positiva/positiva.md",
     "positiva",
     "ach/vinculaciones-pse",
     "ach"
