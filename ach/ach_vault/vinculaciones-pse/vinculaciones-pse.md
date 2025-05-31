@@ -2,4 +2,4 @@ Archivo con notas generales del proceso de automatización de vinculaciones de c
 
 ---
 
-- [[pendientes]]
+- [[ach/ach_vault/vinculaciones-pse/pendientes]]

@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "b1c367cedb61a113",
+    "id": "717326a0ef0ba276",
     "type": "split",
     "children": [
       {
-        "id": "26840d1e121b4a39",
+        "id": "6d68b73794df544d",
         "type": "tabs",
         "children": [
           {
-            "id": "be7123e750053af4",
+            "id": "10efebf3b0b2802f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sabana-pagos/pendientes/desarrollador.md",
+                "file": "positiva/sabana-pagos/pendientes/usuarios.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "desarrollador"
+              "title": "usuarios"
             }
           }
         ]
@@ -28,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bc651e2945feb338",
+    "id": "f2a98cec18af2231",
     "type": "split",
     "children": [
       {
-        "id": "ee4ce44878964ee5",
+        "id": "7a849d4000fd92d1",
         "type": "tabs",
         "children": [
           {
-            "id": "69e7d2fa4b58041e",
+            "id": "9856542604abbf11",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "3f8c71b9c45b2f4e",
+            "id": "d0605e4cd720c571",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +65,7 @@
             }
           },
           {
-            "id": "ae3d66086cef5e81",
+            "id": "a915c63d50c33616",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "b181a137fc4b29b5",
+    "id": "ac1bcefaf2fb63a2",
     "type": "split",
     "children": [
       {
-        "id": "73374dcab5642973",
+        "id": "ec9b70ba8e01580f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8eb0d55edb11fb5",
+            "id": "aab8bb0ebd9d32db",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sabana-pagos/pendientes/desarrollador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for desarrollador"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a9970394cdcdd394",
+            "id": "106d89f3ada95f56",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ach/vinculaciones-pse/pendientes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pendientes"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e40ef243046016fa",
+            "id": "00590946507c6655",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,28 +135,27 @@
             }
           },
           {
-            "id": "92978d0a8bc458f9",
+            "id": "f0639c8f02a986e5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ach/vinculaciones-pse/pendientes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pendientes"
+              "title": "Outline"
             }
           }
         ]
       },
       {
-        "id": "fbfae0af8402c199",
+        "id": "7ecae4649877da72",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf5de7b4d88a578",
+            "id": "c7d796e9b6c924ac",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,45 +177,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "be7123e750053af4",
+  "active": "c7d796e9b6c924ac",
   "lastOpenFiles": [
-    "sabana-pagos/pendientes/usuarios.md",
-    "sabana-pagos/pendientes.md",
-    "positiva.md",
-    "sabana-pagos/sabana-pagos.md",
-    "sabana-pagos/pendientes/desarrollador.md",
-    "sabana-pagos/control-cambios/base-avisados.md",
-    "sabana-pagos/control-cambios/base-objetados.md",
-    "sabana-pagos/control-cambios/base-pagos.md",
-    "sabana-pagos/control-cambios/base-pagos-red-asistencial.md",
-    "sabana-pagos/control-cambios/control-cambios.md",
-    "ach/vinculaciones-pse/pendientes.md",
-    "ach/ach_vault/vinculaciones-pse/vinculaciones-pse.md",
-    "ach/ach_vault/vinculaciones-pse/pendientes.md",
-    "ach/ach_vault/vinculaciones-pse",
-    "ach/ach_vault/Welcome.md",
-    "ach/ach_vault",
-    "ach/vinculaciones-pse/vinculaciones-pse.md",
+    "positiva/sabana-pagos/pendientes/usuarios.md",
+    "positiva/sabana-pagos/pendientes/desarrollador.md",
+    "positiva/sabana-pagos/pendientes.md",
+    "positiva/sabana-pagos/pendientes",
     "positiva/sabana-pagos/control-cambios/control-cambios.md",
     "positiva/sabana-pagos/sabana-pagos.md",
-    "positiva/positiva.md",
-    "positiva/sabana-pagos/control-cambios/base-pagos-red-asistencial.md",
-    "positiva/sabana-pagos/control-cambios/base-pagos.md",
-    "positiva/sabana-pagos/control-cambios/base-objetados.md",
     "positiva/sabana-pagos/control-cambios/base-avisados.md",
-    "positiva/sabana-pagos/Untitled.md",
-    "positiva/test-excalidraw.md",
-    "Excalidraw/Drawing 2025-05-23 14.22.20.excalidraw.md",
-    "Excalidraw",
-    "Welcome.md",
-    "positiva/sabana-pagos/control-cambios",
-    "positiva/sabana-pagos",
-    "positiva",
-    "ach/vinculaciones-pse",
-    "ach"
+    "positiva/positiva.md"
   ]
 }
